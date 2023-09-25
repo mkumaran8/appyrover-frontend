@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fcad7fe.css",
+    "main.js": "/static/js/main.d115b526.js",
+    "static/js/787.67f84aac.chunk.js": "/static/js/787.67f84aac.chunk.js",
+    "static/media/about-us-bg.jpg": "/static/media/about-us-bg.b3c8bbf6b50e6d1f02a9.jpg",
+    "static/media/hotel-bg.jpg": "/static/media/hotel-bg.84cf5b1de2ab9d6022bc.jpg",
+    "static/media/contact-us-bg.jpg": "/static/media/contact-us-bg.43cc5c150359be9dee31.jpg",
+    "static/media/home-bg3.jpg": "/static/media/home-bg3.986fede8cf0745bb97a1.jpg",
+    "static/media/contact-us2.jpg": "/static/media/contact-us2.4db46c0f11a5bb33bd91.jpg",
+    "static/media/bg_2.jpg": "/static/media/bg_2.1fb957feb17d50a2c0bd.jpg",
+    "static/media/destination-bg.jpg": "/static/media/destination-bg.0bc1578f9ec60aecb777.jpg",
+    "static/media/about-1.jpg": "/static/media/about-1.d6071787ee3826199da7.jpg",
+    "static/media/image_3.jpg": "/static/media/image_3.1755c7cf497d16be9057.jpg",
+    "static/media/place-3.jpg": "/static/media/place-3.8549e5c6655f57e396ef.jpg",
+    "static/media/place-1.jpg": "/static/media/place-1.2f227034b8d1eb14bca8.jpg",
+    "static/media/services-2.jpg": "/static/media/services-2.01eb27156748587dcad3.jpg",
+    "static/media/services-1.jpg": "/static/media/services-1.ee50e9e4598eb4f30d04.jpg",
+    "static/media/image_2.jpg": "/static/media/image_2.810b3b4bdb520b719cc8.jpg",
+    "static/media/image_1.jpg": "/static/media/image_1.d4d3323595c8e86b89f8.jpg",
+    "static/media/place-2.jpg": "/static/media/place-2.f44befa7eb737b39e795.jpg",
+    "static/media/services-3.jpg": "/static/media/services-3.b4bf6412fe84b12dcd6c.jpg",
+    "static/media/bg_3.jpg": "/static/media/bg_3.3531b09d55f1bfbd07c9.jpg",
+    "static/media/Flaticon.svg": "/static/media/Flaticon.337e5e921036e0fedf3e.svg",
+    "static/media/Flaticon.eot": "/static/media/Flaticon.26641491f4c469dad32e.eot",
+    "static/media/Flaticon.ttf": "/static/media/Flaticon.a10667b8c485ef2962fe.ttf",
+    "static/media/Flaticon.woff": "/static/media/Flaticon.606c475626086ad3a031.woff",
+    "index.html": "/index.html",
+    "main.8fcad7fe.css.map": "/static/css/main.8fcad7fe.css.map",
+    "main.d115b526.js.map": "/static/js/main.d115b526.js.map",
+    "787.67f84aac.chunk.js.map": "/static/js/787.67f84aac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fcad7fe.css",
+    "static/js/main.d115b526.js"
+  ]
+}
